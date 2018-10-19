@@ -1,0 +1,27 @@
+{
+    "files.autoSave": "on",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "'DejaVu Sans Mono', 'monospace', monospace, 'DejaVu Sans Mono'",
+
+    "vim.easymotion": true,
+    "vim.enableNeovim": true,
+    "vim.leader": ",",
+    "vim.normalModeKeyBindings": [
+        
+    ],
+    "vim.visualModeKeyBindings": [
+        
+    ],
+    "vim.insertModeKeyBindings": [
+        
+    ],
+    "vim.statusBarColorControl": true,
+    "vim.useSystemClipboard": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+
+    
+}
