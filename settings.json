@@ -7,7 +7,12 @@
     "vim.enableNeovim": true,
     "vim.leader": ",",
     "vim.normalModeKeyBindings": [
-        
+        {
+            "before": ["<leader>", "o", "f"],
+            "commands": [
+                "workbench.action.quickOpen"
+            ]
+        },
     ],
     "vim.visualModeKeyBindings": [
         
@@ -15,13 +20,7 @@
     "vim.insertModeKeyBindings": [
         
     ],
-    "vim.statusBarColorControl": true,
     "vim.useSystemClipboard": true,
-    "workbench.colorCustomizations": {
-        "statusBar.background": "#005f5f",
-        "statusBar.noFolderBackground": "#005f5f",
-        "statusBar.debuggingBackground": "#005f5f"
-    },
 
     
 }
